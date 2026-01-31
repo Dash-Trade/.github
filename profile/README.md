@@ -21,7 +21,7 @@ contains the smart contracts, backend services, and frontend web app.
 
 ## Projects
 
-- `dash-sc` - Smart contracts (perps, paymaster, staking, vaults)
+- `dash-sc` - Smart contracts (perps, staking, vaults)
 - `dash-be` - Backend oracle, relayer, and trading automation (Express)
 - `dash-fe` - Frontend web app (Next.js)
 
