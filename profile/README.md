@@ -9,7 +9,7 @@ contains the smart contracts, backend services, and frontend web app.
 ## Features
 
 - **Real-time oracle prices**: Pyth Network feeds with signed prices for on-chain verification
-- **Multi trading pair**: Support crypto, forex, indices, commodities
+- **Multi trading pair**: Support crypto, forex, indices, commodities, stocks
 - **Indonesia stocks**: Support IHSG, BBCA, and BBRI for trading
 - **High leverage trading**: Up to 100x on majors (per protocol limits)
 - **Advanced orders**: Limit, stop-loss, take-profit, and grid trading
